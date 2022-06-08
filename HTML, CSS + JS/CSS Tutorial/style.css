@@ -1,0 +1,38 @@
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Source Code Pro', Fira Code, monospace;
+}
+
+body {
+    background: linear-gradient(to right, #6a00a3, #e84c09);
+}
+
+img {
+    width: 75%;
+    justify-self: center;
+}
+
+header {
+    background: #00000f;
+    padding: 45px 0;
+    color: #e84c09;
+    font-weight: bold;
+    font-size: 50px;
+    font-style: italic;
+}
+
+section {
+    padding: 45px 0;
+}
+
+.contianer {
+    width: 50%;
+    margin: 0 auto;
+    border: 2 solid #6a00a3;
+}
+
+.section-two {
+    color: #ffffff
+}

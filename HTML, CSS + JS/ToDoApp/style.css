@@ -1,0 +1,39 @@
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">* {
+    width: 50%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-family: 'Source Code Pro', Fira Code, monospacey;
+    padding: 0;
+    justify-content: center;
+    background-color: #0f0000;
+    color: #fff;
+    align-self: center;
+}
+
+.container {
+    width: 75%;
+    align-self: center;
+}
+
+#inputField {
+    width: 70%;
+    font: 25px;
+    vertical-align: middle;
+}
+
+#addToDo {
+    vertical-align: middle;
+    font: 30px;
+    height: 5%;
+    width: 5%;
+}
+
+.to-dos {
+    margin-top: 25px;
+}
+
+.paragraph-styilng {
+    margin: 0;
+    cursor: pointer;
+    font: 20px;
+}

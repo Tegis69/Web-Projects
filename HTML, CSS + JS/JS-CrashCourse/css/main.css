@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    align: center;
+}
+
+.container {
+    border: 1px solid black;
+}
+
+.flexBoxContainer {
+    border: 1px solid black;
+    display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.flexBoxContainer div {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
